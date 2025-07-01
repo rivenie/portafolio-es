@@ -282,6 +282,7 @@ h1, h2, h3, h4, h5, h6, p {
   color: black;
   font-weight: bold;
   line-height: 1.5;
+  font-size: 1.4rem;
 }
 .main .sobre-mi .contenedor-sobre-mi .texto p {
   width: 90%;
@@ -605,6 +606,13 @@ h1, h2, h3, h4, h5, h6, p {
 
 .main .sobre-mi .contenedor-sobre-mi .texto{
   width: 100%;
+}
+
+.main .sobre-mi .contenedor-sobre-mi .texto .descripcion {  
+  font-size: 1rem;
+}
+.main .sobre-mi .contenedor-sobre-mi .texto p {
+  width: 90%;  
 }
 
 }

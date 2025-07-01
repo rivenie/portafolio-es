@@ -16,7 +16,7 @@ $("document").ready(function () {
 
   // Asegúrate de que el ID "tagline" esté aplicado correctamente
   $("#tagline").t({
-    speed: 20, // Velocidad entre caracteres (ms)
+    speed: 10, // Velocidad entre caracteres (ms)
     delay: 0, // Elimina retraso inicial
     duration: 1000, // Duración total (ms) - ajústala si el texto es largo
     beep: false,
